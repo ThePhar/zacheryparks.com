@@ -9,12 +9,12 @@ function Banner() {
     return (
         <div className='mh4-l mh5 mb5 tc'>
             <h1 className='f1-l f2-m f5'>
-                <code className='f-subheadline-l f1-m f3'>let</code>&nbsp;
+                <code className='' style={{ fontSize: '115%' }}>let</code>&nbsp;
                     <Typed
                         strings={strings}
-                        typeSpeed={60}
+                        typeSpeed={40}
                         backDelay={2000}
-                        backSpeed={60}
+                        backSpeed={40}
                     />
             </h1>
             <p className='tj-l f6-m f6-l f7'>My name is Zach, and I'm a full stack MERN developer with experience developing beautiful and responsive React + Node applications.</p>
