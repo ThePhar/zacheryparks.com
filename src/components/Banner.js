@@ -4,7 +4,7 @@ import Typed from 'react-typed';
 import '../stylesheets/components/Banner.sass';
 
 function Banner() {
-    const strings = ['me develop your website.', 'me develop your idea.', 'me develop your app.', 'me develop your passion.', 'me develop your project.'];
+    const strings = ['me develop your app.', 'me develop your website.', 'me develop your idea.', 'me develop your passion.', 'me develop your project.'];
 
     return (
         <div className='mh4-l mh5 mb5 tc'>
