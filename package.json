@@ -1,6 +1,7 @@
 {
   "name": "zacheryparks.com",
   "version": "0.1.0",
+  "homepage": "http://zacheryparks.com/",
   "private": true,
   "dependencies": {
     "node-sass": "^4.12.0",
