@@ -12,9 +12,9 @@ function Banner() {
                 <code className='' style={{ fontSize: '115%' }}>let</code>&nbsp;
                     <Typed
                         strings={strings}
-                        typeSpeed={40}
+                        typeSpeed={100}
                         backDelay={2000}
-                        backSpeed={40}
+                        backSpeed={25}
                     />
             </h1>
             <p className='tj-l f6-m f6-l f7'>My name is Zach, and I'm a full stack MERN developer with experience developing beautiful and responsive React + Node applications.</p>
