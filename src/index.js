@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './stylesheets/index.sass';
-import App from './containers/App';
+import './index.sass';
+import App from './routers/AppRouter';
 import * as serviceWorker from './serviceWorker';
 
 import EasterEgg from "./easteregg";

@@ -1,9 +1,9 @@
 import React from 'react';
 import Typed from 'react-typed';
 
-import '../stylesheets/components/Banner.sass';
+import './HomePage.sass';
 
-function Banner() {
+function HomePage() {
     const strings = ['me develop your app.', 'me develop your website.', 'me develop your idea.', 'me develop your passion.', 'me develop your project.'];
 
     return (
@@ -20,4 +20,4 @@ function Banner() {
             <p className='tj-l f6-m f6-l f7'>My name is Zach, and I'm a full stack MERN developer with experience developing beautiful and responsive React + Node applications.</p>
         </div>
     );
-} export default Banner;
+} export default HomePage;
